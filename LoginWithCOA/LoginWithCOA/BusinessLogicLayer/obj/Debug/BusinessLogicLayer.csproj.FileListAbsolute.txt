@@ -1,0 +1,11 @@
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\bin\Debug\AppProps.dll
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\bin\Debug\AppProps.pdb
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\PMLS\source\repos\LoginWithCOA\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

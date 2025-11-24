@@ -1,0 +1,66 @@
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.staticwebassets.runtime.json
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.exe
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.deps.json
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.runtimeconfig.json
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.dll
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.pdb
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.AssemblyInfo.cs
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets\msbuild.ConsumingWebAPIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets\msbuild.build.ConsumingWebAPIs.props
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConsumingWebAPIs.props
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConsumingWebAPIs.props
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\scopedcss\bundle\ConsumingWebAPIs.styles.css
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\scopedcss\projectbundle\ConsumingWebAPIs.bundle.scp.css
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\Consumin.687119C7.Up2Date
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.dll
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\refint\ConsumingWebAPIs.dll
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.pdb
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.genruntimeconfig.cache
+C:\Users\hp\source\repos\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ref\ConsumingWebAPIs.dll
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\appsettings.json
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.staticwebassets.runtime.json
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.exe
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.deps.json
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.runtimeconfig.json
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.dll
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\ConsumingWebAPIs.pdb
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.RazorAssemblyInfo.cache
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.RazorAssemblyInfo.cs
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets\msbuild.ConsumingWebAPIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets\msbuild.build.ConsumingWebAPIs.props
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConsumingWebAPIs.props
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConsumingWebAPIs.props
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\scopedcss\bundle\ConsumingWebAPIs.styles.css
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\scopedcss\projectbundle\ConsumingWebAPIs.bundle.scp.css
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\Consumin.687119C7.Up2Date
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.dll
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\refint\ConsumingWebAPIs.dll
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.pdb
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ConsumingWebAPIs.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\ConsumingWebAPIs\ConsumingWebAPIs\ConsumingWebAPIs\obj\Debug\net8.0\ref\ConsumingWebAPIs.dll

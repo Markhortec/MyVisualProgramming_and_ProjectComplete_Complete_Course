@@ -1,0 +1,44 @@
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\BLL.dll
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\BLL.pdb
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\AppProps.dll
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\DAL.dll
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\AppProps.pdb
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\DAL.pdb
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.dll
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.pdb
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\BLL.dll
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\BLL.pdb
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\AppProps.dll
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\DAL.dll
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\AppProps.pdb
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\bin\Debug\DAL.pdb
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.dll
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.pdb
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\bin\Debug\BLL.dll
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\bin\Debug\BLL.pdb
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\bin\Debug\AppProps.dll
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\bin\Debug\DAL.dll
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\bin\Debug\AppProps.pdb
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\bin\Debug\DAL.pdb
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.dll
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.pdb
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\bin\Debug\BLL.dll
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\bin\Debug\BLL.pdb
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\bin\Debug\AppProps.dll
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\bin\Debug\DAL.dll
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\bin\Debug\AppProps.pdb
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\bin\Debug\DAL.pdb
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.dll
+C:\Users\Hamza\Desktop\NUML\BSCS#6\Visual Programming\VP-1st-Class\ShoppingCartProductwithDB\BLL\obj\Debug\BLL.pdb

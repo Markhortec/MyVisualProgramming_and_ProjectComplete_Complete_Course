@@ -1,0 +1,6 @@
+C:\Users\PMLS\source\repos\LoginWithCOA\AppProps\bin\Debug\AppProps.dll
+C:\Users\PMLS\source\repos\LoginWithCOA\AppProps\bin\Debug\AppProps.pdb
+C:\Users\PMLS\source\repos\LoginWithCOA\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\LoginWithCOA\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\LoginWithCOA\AppProps\obj\Debug\AppProps.dll
+C:\Users\PMLS\source\repos\LoginWithCOA\AppProps\obj\Debug\AppProps.pdb

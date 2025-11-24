@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PMLS\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\VPLabTask5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B328F-4A8E-4479-BB3E-8E5E59888078}|VPLabTask5\\VPLabTask5.csproj|C:\\Users\\PMLS\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\VPLabTask5\\vplabtask5\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A54B328F-4A8E-4479-BB3E-8E5E59888078}|VPLabTask5\\VPLabTask5.csproj|solutionrelative:vplabtask5\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B328F-4A8E-4479-BB3E-8E5E59888078}|VPLabTask5\\VPLabTask5.csproj|c:\\users\\pmls\\desktop\\numl\\bscs#6\\visual programming\\vp-1st-class\\vplabtask5\\vplabtask5\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B328F-4A8E-4479-BB3E-8E5E59888078}|VPLabTask5\\VPLabTask5.csproj|solutionrelative:vplabtask5\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\VPLabTask5\\VPLabTask5\\Product.aspx",
+              "RelativeDocumentMoniker": "VPLabTask5\\Product.aspx",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\VPLabTask5\\VPLabTask5\\Product.aspx",
+              "RelativeToolTip": "VPLabTask5\\Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-17T05:27:35.525Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\VPLabTask5\\VPLabTask5\\Product.aspx.cs",
+              "RelativeDocumentMoniker": "VPLabTask5\\Product.aspx.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\VPLabTask5\\VPLabTask5\\Product.aspx.cs",
+              "RelativeToolTip": "VPLabTask5\\Product.aspx.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAwwI0AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T05:27:38.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

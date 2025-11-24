@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\MasterPageProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDE9526-91F4-45D1-9091-55889518AF0A}|MasterPageProject\\MasterPageProject.csproj|c:\\users\\hamza\\desktop\\numl\\bscs#6\\visual programming\\vp-1st-class\\masterpageproject\\masterpageproject\\product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACDE9526-91F4-45D1-9091-55889518AF0A}|MasterPageProject\\MasterPageProject.csproj|solutionrelative:masterpageproject\\product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "product.json",
+              "DocumentMoniker": "C:\\Users\\Hamza\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\MasterPageProject\\MasterPageProject\\product.json",
+              "RelativeDocumentMoniker": "MasterPageProject\\product.json",
+              "ToolTip": "C:\\Users\\Hamza\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\MasterPageProject\\MasterPageProject\\product.json*",
+              "RelativeToolTip": "MasterPageProject\\product.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T19:11:07.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

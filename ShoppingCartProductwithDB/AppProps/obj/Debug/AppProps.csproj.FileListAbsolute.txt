@@ -1,0 +1,18 @@
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\bin\Debug\AppProps.dll
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\bin\Debug\AppProps.pdb
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.csprojAssemblyReference.cache
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.dll
+D:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.pdb
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\bin\Debug\AppProps.dll
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\bin\Debug\AppProps.pdb
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.csprojAssemblyReference.cache
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.dll
+E:\Teaching Material\VP-Lab\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.pdb
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\AppProps\bin\Debug\AppProps.dll
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\AppProps\bin\Debug\AppProps.pdb
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.csproj.AssemblyReference.cache
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.dll
+C:\Users\Hamza\Downloads\ShoppingCartProductwithDB\AppProps\obj\Debug\AppProps.pdb

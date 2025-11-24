@@ -1,0 +1,9 @@
+C:\Users\PMLS\source\repos\LoginWithCOA\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\PMLS\source\repos\LoginWithCOA\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\PMLS\source\repos\LoginWithCOA\DataAccessLayer\bin\Debug\AppProps.dll
+C:\Users\PMLS\source\repos\LoginWithCOA\DataAccessLayer\bin\Debug\AppProps.pdb
+C:\Users\PMLS\source\repos\LoginWithCOA\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\LoginWithCOA\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\LoginWithCOA\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\PMLS\source\repos\LoginWithCOA\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\PMLS\source\repos\LoginWithCOA\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

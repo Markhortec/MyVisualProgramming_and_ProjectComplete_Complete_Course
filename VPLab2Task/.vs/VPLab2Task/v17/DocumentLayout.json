@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PMLS\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\VPLab2Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E620B4C-D64A-4E94-9C71-3989D7EF541C}|VPLab2Task\\VPLab2Task.csproj|c:\\users\\pmls\\desktop\\numl\\bscs#6\\visual programming\\vp-1st-class\\vplab2task\\vplab2task\\employee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E620B4C-D64A-4E94-9C71-3989D7EF541C}|VPLab2Task\\VPLab2Task.csproj|solutionrelative:vplab2task\\employee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\VPLab2Task\\VPLab2Task\\Employee.aspx.cs",
+              "RelativeDocumentMoniker": "VPLab2Task\\Employee.aspx.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\NUML\\BSCS#6\\Visual Programming\\VP-1st-Class\\VPLab2Task\\VPLab2Task\\Employee.aspx.cs",
+              "RelativeToolTip": "VPLab2Task\\Employee.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:06:15.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
